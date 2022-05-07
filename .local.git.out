@@ -1,0 +1,2160 @@
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c9a4633] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 86 insertions(+), 5 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 319fb60] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 896a8d6] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 45 insertions(+), 5 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 938894d] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 85a74df] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 39 insertions(+), 3 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 8bc8366] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 15 insertions(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 55f1879] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 11 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present (use "git add" to track)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present (use "git add" to track)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f1e33e8] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.local.git.out
+	tests/.nfs00000000099902ea00003206
+
+nothing added to commit but untracked files present (use "git add" to track)
+D	examples/composite_ex
+D	examples/constructor_ex
+D	tests/.nfs00000000099902ea00003206
+D	tests/test_all_lists
+D	tests/test_coalesce_chunk_coalesce
+D	tests/test_coalesce_chunk_insert
+D	tests/test_corrupted_canary
+D	tests/test_double_free
+D	tests/test_exact
+D	tests/test_free_both
+D	tests/test_free_even
+D	tests/test_free_insert
+D	tests/test_free_left
+D	tests/test_free_null
+D	tests/test_free_odd
+D	tests/test_free_right
+D	tests/test_insert_chunk
+D	tests/test_large
+D	tests/test_locks
+D	tests/test_malloc_large
+D	tests/test_malloc_too_large
+D	tests/test_malloc_zero
+D	tests/test_multi_malloc
+D	tests/test_out_of_ram
+D	tests/test_random
+D	tests/test_random_sizes
+D	tests/test_simple0
+D	tests/test_simple1
+D	tests/test_simple2
+D	tests/test_simple3
+D	tests/test_simple4
+D	tests/test_simple5
+D	tests/test_simple6
+D	tests/test_split
+D	tests/test_verify
+D	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 8287fdb] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 37 files changed, 37 insertions(+)
+ delete mode 100755 examples/composite_ex
+ delete mode 100755 examples/constructor_ex
+ delete mode 100755 tests/.nfs00000000099902ea00003206
+ delete mode 100755 tests/test_all_lists
+ delete mode 100755 tests/test_coalesce_chunk_coalesce
+ delete mode 100755 tests/test_coalesce_chunk_insert
+ delete mode 100755 tests/test_corrupted_canary
+ delete mode 100755 tests/test_double_free
+ delete mode 100755 tests/test_exact
+ delete mode 100755 tests/test_free_both
+ delete mode 100755 tests/test_free_even
+ delete mode 100755 tests/test_free_insert
+ delete mode 100755 tests/test_free_left
+ delete mode 100755 tests/test_free_null
+ delete mode 100755 tests/test_free_odd
+ delete mode 100755 tests/test_free_right
+ delete mode 100755 tests/test_insert_chunk
+ delete mode 100755 tests/test_large
+ delete mode 100755 tests/test_locks
+ delete mode 100755 tests/test_malloc_large
+ delete mode 100755 tests/test_malloc_too_large
+ delete mode 100755 tests/test_malloc_zero
+ delete mode 100755 tests/test_multi_malloc
+ delete mode 100755 tests/test_out_of_ram
+ delete mode 100755 tests/test_random
+ delete mode 100755 tests/test_random_sizes
+ delete mode 100755 tests/test_simple0
+ delete mode 100755 tests/test_simple1
+ delete mode 100755 tests/test_simple2
+ delete mode 100755 tests/test_simple3
+ delete mode 100755 tests/test_simple4
+ delete mode 100755 tests/test_simple5
+ delete mode 100755 tests/test_simple6
+ delete mode 100755 tests/test_split
+ delete mode 100755 tests/test_verify
+ delete mode 100755 tests/test_very_large
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4f0c38f] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 94 insertions(+), 40 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 40c08db] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master e62e26c] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 50 insertions(+)
+ rewrite tests/test_all_lists (67%)
+ rewrite tests/test_coalesce_chunk_coalesce (62%)
+ rewrite tests/test_coalesce_chunk_insert (65%)
+ rewrite tests/test_corrupted_canary (67%)
+ rewrite tests/test_double_free (70%)
+ rewrite tests/test_exact (62%)
+ rewrite tests/test_free_both (70%)
+ rewrite tests/test_free_even (66%)
+ rewrite tests/test_free_insert (68%)
+ rewrite tests/test_free_left (67%)
+ rewrite tests/test_free_null (64%)
+ rewrite tests/test_free_odd (66%)
+ rewrite tests/test_free_right (67%)
+ rewrite tests/test_insert_chunk (62%)
+ rewrite tests/test_large (67%)
+ rewrite tests/test_locks (67%)
+ rewrite tests/test_malloc_large (66%)
+ rewrite tests/test_malloc_too_large (66%)
+ rewrite tests/test_malloc_zero (66%)
+ rewrite tests/test_multi_malloc (71%)
+ rewrite tests/test_out_of_ram (66%)
+ rewrite tests/test_random (61%)
+ rewrite tests/test_simple0 (62%)
+ rewrite tests/test_simple1 (63%)
+ rewrite tests/test_simple2 (62%)
+ rewrite tests/test_simple3 (63%)
+ rewrite tests/test_simple4 (63%)
+ rewrite tests/test_simple5 (63%)
+ rewrite tests/test_simple6 (66%)
+ rewrite tests/test_split (67%)
+ rewrite tests/test_verify (70%)
+M	.local.git.out
+M	runtest.py
+M	tests/Makefile
+Your branch is up to date with 'origin/master'.
+[master 9071220] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 52 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	runtest.py
+M	tests/Makefile
+Your branch is up to date with 'origin/master'.
+[master e658b81] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 23 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	tests/Makefile
+Your branch is up to date with 'origin/master'.
+[master 3a18d2e] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master a279f32] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master ced2151] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 8d172b5] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master d2acdb8] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 338b96d] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 2631341] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 5b1f6e6] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 11 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master d9c66bf] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 53 insertions(+), 1 deletion(-)
+ rewrite tests/test_all_lists (75%)
+ rewrite tests/test_coalesce_chunk_coalesce (66%)
+ rewrite tests/test_coalesce_chunk_insert (68%)
+ rewrite tests/test_corrupted_canary (74%)
+ rewrite tests/test_double_free (72%)
+ rewrite tests/test_exact (69%)
+ rewrite tests/test_free_both (75%)
+ rewrite tests/test_free_even (74%)
+ rewrite tests/test_free_insert (74%)
+ rewrite tests/test_free_left (74%)
+ rewrite tests/test_free_null (71%)
+ rewrite tests/test_free_odd (73%)
+ rewrite tests/test_free_right (75%)
+ rewrite tests/test_insert_chunk (69%)
+ rewrite tests/test_large (72%)
+ rewrite tests/test_locks (74%)
+ rewrite tests/test_malloc_large (75%)
+ rewrite tests/test_malloc_too_large (74%)
+ rewrite tests/test_malloc_zero (70%)
+ rewrite tests/test_multi_malloc (72%)
+ rewrite tests/test_out_of_ram (62%)
+ rewrite tests/test_random (70%)
+ rewrite tests/test_random_sizes (61%)
+ rewrite tests/test_simple0 (71%)
+ rewrite tests/test_simple1 (70%)
+ rewrite tests/test_simple2 (70%)
+ rewrite tests/test_simple3 (73%)
+ rewrite tests/test_simple4 (71%)
+ rewrite tests/test_simple5 (70%)
+ rewrite tests/test_simple6 (71%)
+ rewrite tests/test_split (75%)
+ rewrite tests/test_verify (73%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 20efd42] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 84 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master fe36774] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 50 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 6834fb2] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 8b2b687] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master b5a5a0a] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master cbd3994] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 439d344] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 36b9df8] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 50 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 2249112] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 0692181] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 52 insertions(+), 1 deletion(-)
+ rewrite tests/test_free_insert (65%)
+ rewrite tests/test_malloc_too_large (62%)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 395dd41] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 19 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master a180961] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master e7c079a] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 59b1a5c] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master e3f1800] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master d9e2c6f] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master fed7846] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 24 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 625f49b] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 67 insertions(+), 14 deletions(-)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 3003c8c] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 50 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 81d62e5] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 2c122e0] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 50 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 50c0b92] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 24 insertions(+)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 59e5362] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 50 insertions(+)
+ rewrite tests/test_multi_malloc (60%)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 3b5375a] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 18 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 45f13c9] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 70aa1b0] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 55 insertions(+), 3 deletions(-)
+ rewrite tests/test_double_free (64%)
+ rewrite tests/test_large (65%)
+ rewrite tests/test_multi_malloc (63%)
+ rewrite tests/test_simple4 (65%)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e1ca8f9] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 25 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 1140678] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 54 insertions(+)
+ rewrite tests/test_double_free (67%)
+ rewrite tests/test_large (63%)
+ rewrite tests/test_random (61%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 9cf60d3] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 58 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master fe7de1d] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 50 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master e42bf32] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 4f68452] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 38be95a] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master e8c7e46] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 53 insertions(+)
+ rewrite tests/test_free_left (60%)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master efef233] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master e1b8d7b] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 55 insertions(+), 2 deletions(-)
+ rewrite tests/test_double_free (67%)
+ rewrite tests/test_exact (66%)
+ rewrite tests/test_free_insert (63%)
+ rewrite tests/test_large (65%)
+ rewrite tests/test_simple1 (65%)
+ rewrite tests/test_simple2 (73%)
+ rewrite tests/test_split (70%)
+ rewrite tests/test_verify (65%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 12027cb] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 60 insertions(+), 1 deletion(-)
+M	.local.git.out
+D	examples/composite_ex
+D	examples/constructor_ex
+D	tests/test_all_lists
+D	tests/test_coalesce_chunk_coalesce
+D	tests/test_coalesce_chunk_insert
+D	tests/test_corrupted_canary
+D	tests/test_double_free
+D	tests/test_exact
+D	tests/test_free_both
+D	tests/test_free_even
+D	tests/test_free_insert
+D	tests/test_free_left
+D	tests/test_free_null
+D	tests/test_free_odd
+D	tests/test_free_right
+D	tests/test_insert_chunk
+D	tests/test_large
+D	tests/test_locks
+D	tests/test_malloc_large
+D	tests/test_malloc_too_large
+D	tests/test_malloc_zero
+D	tests/test_multi_malloc
+D	tests/test_out_of_ram
+D	tests/test_random
+D	tests/test_random_sizes
+D	tests/test_simple0
+D	tests/test_simple1
+D	tests/test_simple2
+D	tests/test_simple3
+D	tests/test_simple4
+D	tests/test_simple5
+D	tests/test_simple6
+D	tests/test_split
+D	tests/test_verify
+D	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 8ceaba1] Commit
+ Committer: Zekun Wu <wu1326@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 36 files changed, 52 insertions(+)
+ delete mode 100755 examples/composite_ex
+ delete mode 100755 examples/constructor_ex
+ delete mode 100755 tests/test_all_lists
+ delete mode 100755 tests/test_coalesce_chunk_coalesce
+ delete mode 100755 tests/test_coalesce_chunk_insert
+ delete mode 100755 tests/test_corrupted_canary
+ delete mode 100755 tests/test_double_free
+ delete mode 100755 tests/test_exact
+ delete mode 100755 tests/test_free_both
+ delete mode 100755 tests/test_free_even
+ delete mode 100755 tests/test_free_insert
+ delete mode 100755 tests/test_free_left
+ delete mode 100755 tests/test_free_null
+ delete mode 100755 tests/test_free_odd
+ delete mode 100755 tests/test_free_right
+ delete mode 100755 tests/test_insert_chunk
+ delete mode 100755 tests/test_large
+ delete mode 100755 tests/test_locks
+ delete mode 100755 tests/test_malloc_large
+ delete mode 100755 tests/test_malloc_too_large
+ delete mode 100755 tests/test_malloc_zero
+ delete mode 100755 tests/test_multi_malloc
+ delete mode 100755 tests/test_out_of_ram
+ delete mode 100755 tests/test_random
+ delete mode 100755 tests/test_random_sizes
+ delete mode 100755 tests/test_simple0
+ delete mode 100755 tests/test_simple1
+ delete mode 100755 tests/test_simple2
+ delete mode 100755 tests/test_simple3
+ delete mode 100755 tests/test_simple4
+ delete mode 100755 tests/test_simple5
+ delete mode 100755 tests/test_simple6
+ delete mode 100755 tests/test_split
+ delete mode 100755 tests/test_verify
+ delete mode 100755 tests/test_very_large

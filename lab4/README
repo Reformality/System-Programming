@@ -1,0 +1,24 @@
+Part2: Thread Creation
+In step 2, the program thr1 is simply outputing 'A', 'B', and 'C' randomly.
+In step 4, the program thr2 only ouputs 'C's because it enters the infinite 
+    printC loop. It never reached line 23 where it creates the thread for printing
+    "A".
+
+Part 4: Spin locks
+Step 4 Table:
+-------------------------------------------------------------------
+                            | System Time | User Time | Real Time |
+----------------------------|-------------|-----------|-----------|
+pthread_mutex               |   0.664s    |   1.528s  |   1.109s  |
+spin lock with thr_yield    |   0.129s    |   0.489s  |   0.313s  |
+spin lock without thr_yield |   0.000s    |   2.309s  |   1.222s  |
+-------------------------------------------------------------------
+q1: The user time increase significantly when using spin lock without using
+    thr_yield. This is because thr_yield give up the CPU for the waiting thread.
+p2: The system time used in count is more than count_spin. This is because 
+    spin locks can be implemented in user space unlike mutex lock.
+
+Part7: Buffer Overflow
+./buffer `printf "123456789012345\xef\xbe\xad\xde"`
+Bytes: 0xef 0xbe 0xad 0xde
+How it works: order in reverse because little endianess.
